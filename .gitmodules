@@ -1,0 +1,3 @@
+[submodule "embedded_tools"]
+	path = embedded_tools
+	url = https://github.com/padinadrian/embedded_tools.git
